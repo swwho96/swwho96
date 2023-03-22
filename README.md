@@ -1,4 +1,5 @@
-## Hi! This is Seo SeungWoo's github!
+안녕하세요 서승우입니다.
+ML/DL에 관심을 가지고 있습니다.
 
 ## AI Competitions
 
