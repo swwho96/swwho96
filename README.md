@@ -1,7 +1,4 @@
-# Hi!
-### This is Seo SeungWoo's github!
-
----
+## Hi! This is Seo SeungWoo's github!
 
 ## AI Competitions
 
