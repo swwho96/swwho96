@@ -1,3 +1,12 @@
 # Hi!
 ### This is Seo SeungWoo's github!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswwho96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+
+## AI Competitions
+
+|Name|Type|Date|Rank|
+|---|---|---|---|
+|**[전화 해지 여부 분류 AI 경진대회 (Dacon)]()**|Tabular|Mar.2023|33/433 (proceeding)|
+|**[자동차 충돌 분석 AI 경진대회 (Dacon)]()**|ComputerVision|Feb.2023|20/449 (Top 4%)|
+|**[건설기계 오일 상태 분류 AI 경진대회 (Dacon)]()**|Tabular|Oct.2022|162/517|
