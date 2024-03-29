@@ -1,8 +1,15 @@
-안녕하세요 서승우입니다.
-ML/DL에 관심을 가지고 있습니다.
+<h3 align=center> 안녕하세요 서승우입니다! </h3>
 
-## AI Competitions
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+</p>
 
+---
+
+### AI Competitions
 |Name|Type|Date|Rank|
 |---|---|---|---|
 |**[합성데이터 기반 객체 탐지 AI 경진대회 (Dacon)](https://dacon.io/competitions/official/236107/overview/description)**|Vision|May.2023|234/855|
