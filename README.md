@@ -12,6 +12,7 @@
 ### AI Competitions
 |Name|Type|Date|Rank|
 |---|---|---|---|
+|**[문맥 기반 문장 순서 예측 AI 경진대회 (Dacon)](https://dacon.io/competitions/official/236489/overview/description)**|NLP|May.2025 ~ June.2025|6/204 (Top 4%)|
 |**[Home Credit - Credit Risk Model Stability (Kaggle)](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability)**|Tabular|Feb.2024 ~ May.2024|Silver Medal (96/3856)|
 |**[합성데이터 기반 객체 탐지 AI 경진대회 (Dacon)](https://dacon.io/competitions/official/236107/overview/description)**|Vision|May.2023|234/855|
 |**[전화 해지 여부 분류 AI 경진대회 (Dacon)](https://dacon.io/competitions/official/236075/overview/description)**|Tabular|Mar.2023|70/577|
